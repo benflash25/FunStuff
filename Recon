@@ -1,3 +1,4 @@
+<#
 .SYNOPSIS
 	This is an advanced recon of a target PC and exfiltration of that data.
 .DESCRIPTION 
